@@ -4,7 +4,7 @@ Plugin Name: Voight Kampff Comment Test
 Plugin URI: http://www.scientiaest.com/projects/wordpress-plugin-vkct/
 Description: The Voight Kampff Comment Test adds additional optional or required fields to your comment form. This can be used to prevent spam, survey your users, or quiz them before they leave a comment. Allows for the additional fields to be implemented site wide, or on individual pages using the [vkct] shortcode.
 Author: Joseph Martucci
-Version: 0.1
+Version: 0.1.1
 Author URI: http://scientiaest.com/
 */
 
